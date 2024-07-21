@@ -73,12 +73,14 @@ Now let’s have a look at the number of customers in all the segments:
 - Set the color of the Champions segment as a different color
 - Update the layout
 - Show the figure
-!["Alt text"]()
+!["Alt text"](https://github.com/keerthanamg/Analytics_dashboard/blob/8ce1c722a32d59a0e83407379689744de3a5c8bc/newplot%20(3).png)
 
-### 8. Calculate the average Recency, Frequency, and Monetary scores for each segment
+Now let’s have a look at the recency, frequency, and monetary scores of all the segments:
+- Calculate the average Recency, Frequency, and Monetary scores for each segment
 - Create a grouped bar chart to compare segment scores
 - Add bars for Recency score
 - Add bars for Frequency score
 - Add bars for Monetary score
 - Update the layout
 - Show the figure
+!["Alt text"]()
