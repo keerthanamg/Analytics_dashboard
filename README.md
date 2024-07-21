@@ -39,3 +39,21 @@ Using RFM Analysis, a business can assess customers’:
 - Create the bar chart with pastel colors
 - Update the layout
 - Show the figure
+
+### 6. Create a new column for RFM Customer Segments
+- Assign RFM segments based on the RFM score
+- Filter the data to include only the customers in the Champions segment
+- Visualize the correlation matrix using a heatmap
+
+### 7. Create a bar chart to compare segment counts
+- Set the color of the Champions segment as a different color
+- Update the layout
+- Show the figure
+
+### 8. Calculate the average Recency, Frequency, and Monetary scores for each segment
+- Create a grouped bar chart to compare segment scores
+- Add bars for Recency score
+- Add bars for Frequency score
+- Add bars for Monetary score
+- Update the layout
+- Show the figure
