@@ -54,15 +54,19 @@ Using RFM Analysis, a business can assess customers’:
 ### 7. RFM Analysis
 - Analyze the distribution of customers across different RFM customer segments within each value segment
 - Show the image
-!["Alt text"](newplot (1).png)
+!["Alt text"](newplot(1).png)
 
 Now let’s analyze the distribution of RFM values within the Champions segment:  
 - Filter the data to include only the customers in the Champions segment
 - fig.add_trace
 - fig.update_layout
 - Show the image
-!["Alt text"]()
+!["Alt text"](RFM-3.webp)
+
+Now let’s analyze the correlation of the recency, frequency, and monetary scores within the champions segment:
 - Visualize the correlation matrix using a heatmap
+- Show the image
+!["Alt text"]()
 
 ### 7. Create a bar chart to compare segment counts
 - Set the color of the Champions segment as a different color
