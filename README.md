@@ -54,7 +54,7 @@ Using RFM Analysis, a business can assess customers’:
 ### 7. RFM Analysis
 - Analyze the distribution of customers across different RFM customer segments within each value segment
 - Show the image
-!["Alt text"](newplot(1).png)
+!["Alt text"](https://github.com/keerthanamg/Analytics_dashboard/blob/5a91c8eab961710387e1fe35a6000eb508476486/newplot%20(1).png)
 
 Now let’s analyze the distribution of RFM values within the Champions segment:  
 - Filter the data to include only the customers in the Champions segment
