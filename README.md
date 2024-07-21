@@ -44,10 +44,18 @@ Using RFM Analysis, a business can assess customers’:
 - Create the bar chart with pastel colors
 - Update the layout
 - Show the figure
-!["Alt text"]()
+!["Alt text"](newplot.png)
 
-### 6. Create a new column for RFM Customer Segments
+### 6. RFM Customer Segments
+- Create a new column for RFM Customer Segments
 - Assign RFM segments based on the RFM score
+- Print the updated data with RFM segments
+
+### 7. RFM Analysis
+- Analyze the distribution of customers across different RFM customer segments within each value segment
+- Show the figure
+- !["Alt text"]()
+
 - Filter the data to include only the customers in the Champions segment
 - Visualize the correlation matrix using a heatmap
 
