@@ -22,23 +22,29 @@ Using RFM Analysis, a business can assess customers’:
 
 ### 2. Import required libraries
 - Load the dataset as well.
+- Convert 'PurchaseDate' to datetime
 
-### 3. Convert 'PurchaseDate' to datetime
-- Calculate Recency
-- Calculate Frequency
-- Calculate Monetary Value
+### 3. Calculating RFM scores
+- Define scoring criteria for each RFM value
+- Recency score: Higher score for lower recency (more recent)
+- Frequency score: Higher score for higher frequency
+- Monetary score: Higher score for higher monetary value
+- Calculate RFM scores
 
 ### 4. Define scoring criteria for each RFM value
-- Calculate RFM scores
 - Convert RFM scores to numeric type
-- Calculate RFM score by combining the individual scores
 
-### 5. Create RFM segments based on the RFM score
-- RFM Segment Distribution
+### 5. RFM Value Segmentation
+- Calculate RFM score by combining the individual scores
+- Create RFM segments based on the RFM score
+
+### 6. RFM Segment Distribution
+- Create the bar chart
 - Define the pastel color palette
 - Create the bar chart with pastel colors
 - Update the layout
 - Show the figure
+!["Alt text"]()
 
 ### 6. Create a new column for RFM Customer Segments
 - Assign RFM segments based on the RFM score
