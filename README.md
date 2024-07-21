@@ -83,4 +83,14 @@ Now let’s have a look at the recency, frequency, and monetary scores of all th
 - Add bars for Monetary score
 - Update the layout
 - Show the figure
+!["Alt text"](https://github.com/keerthanamg/Analytics_dashboard/blob/761fcc136542e577b0e695e1ccdec7396224193c/newplot%20(4).png)
+
+### 8. RFM Analysis into a dashboard:
+- Import dash
+- Initialize the Dash app
+- Define the app layout using Bootstrap components
+- Dropdown for selecting the chart
+- Graph container
+- Define callback to update the selected chart
+- Return a default chart if no valid selection
 !["Alt text"]()
