@@ -43,7 +43,7 @@ Using RFM Analysis, a business can assess customers’:
 - Define the pastel color palette
 - Create the bar chart with pastel colors
 - Update the layout
-- Show the figure
+- Show the image
 !["Alt text"](newplot.png)
 
 ### 6. RFM Customer Segments
@@ -53,10 +53,15 @@ Using RFM Analysis, a business can assess customers’:
 
 ### 7. RFM Analysis
 - Analyze the distribution of customers across different RFM customer segments within each value segment
-- Show the figure
-- !["Alt text"]()
+- Show the image
+!["Alt text"](newplot (1).png)
 
+Now let’s analyze the distribution of RFM values within the Champions segment:  
 - Filter the data to include only the customers in the Champions segment
+- fig.add_trace
+- fig.update_layout
+- Show the image
+!["Alt text"]()
 - Visualize the correlation matrix using a heatmap
 
 ### 7. Create a bar chart to compare segment counts
