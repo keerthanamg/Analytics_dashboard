@@ -66,12 +66,14 @@ Now let’s analyze the distribution of RFM values within the Champions segment:
 Now let’s analyze the correlation of the recency, frequency, and monetary scores within the champions segment:
 - Visualize the correlation matrix using a heatmap
 - Show the image
-!["Alt text"]()
+!["Alt text"](https://github.com/keerthanamg/Analytics_dashboard/blob/b28736d900932f8cffe52a7d75826192aa7a2f1c/newplot%20(2).png)
 
-### 7. Create a bar chart to compare segment counts
+Now let’s have a look at the number of customers in all the segments:
+- Create a bar chart to compare segment counts
 - Set the color of the Champions segment as a different color
 - Update the layout
 - Show the figure
+!["Alt text"]()
 
 ### 8. Calculate the average Recency, Frequency, and Monetary scores for each segment
 - Create a grouped bar chart to compare segment scores
